@@ -54,7 +54,7 @@ html {
 .banner {
     display: flex;
     height: 500px;
-    background-image: url("/Volumes/Mac's Brain/Projects/Codecademy/Flexbox Business Site Starting/Resources/vackground-com-hDQ-dUjQN8E-unsplash.jpg");
+    background-image: url("vackground-com-hDQ-dUjQN8E-unsplash.jpg");
     background-size: cover;
     background-position: auto;
     background-repeat: no-repeat;
